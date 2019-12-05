@@ -1,1 +1,1 @@
-FROM uwgda/uwgda-image:2019.1
+FROM uwgda/uwgda-image:2020.1
